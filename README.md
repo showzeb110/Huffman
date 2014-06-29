@@ -19,3 +19,7 @@ This is the implementation of Huffman Encoding Compression Algorithm in Python.
 ## Installation
 
 Require Python 2.6+
+
+### API Reference
+
+BitVector from Python Package Index
